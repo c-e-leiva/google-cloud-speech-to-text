@@ -6,7 +6,6 @@ Este proyecto emplea la API de Google Cloud Speech-to-Text para convertir grabac
 ## 🎥 **Demostración en YouTube**
 [Haz clic aquí para ver el video](https://youtu.be/)
 
----
 
 ## 🎯 **Objetivo**
 Integrar la tecnología de Google Cloud Speech-to-Text para transformar grabaciones de voz en texto, facilitando aplicaciones en accesibilidad, transcripción de contenido, y procesamiento de lenguaje natural.
