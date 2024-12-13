@@ -1,6 +1,6 @@
-# 🌟 **Cloud Speech-to-Text**
+# 🗣️ **Proyecto de Reconocimiento de Voz con Google Cloud Speech-to-Text**
 
-Este proyecto utiliza la API de Google Cloud Speech-to-Text para convertir grabaciones de voz en texto escrito, ofreciendo una herramienta eficiente para transcripciones y análisis de audio.
+Este proyecto emplea la API de Google Cloud Speech-to-Text para convertir grabaciones de voz en texto escrito. Ideal para aplicaciones de transcripción, accesibilidad y procesamiento de lenguaje natural.
 
 
 ## 🎥 **Demostración en YouTube**
